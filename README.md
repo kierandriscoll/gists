@@ -9,7 +9,7 @@
 - [Install packages in a virtual environment](https://gist.github.com/kierandriscoll/0300daf7ef51a2ff60e8e3dba79ad240) 
 
 ### Efficiency
-- [](https://gist.github.com/kierandriscoll/cc20f0d95e69e1406b41bc8d9cd9d830)
+- [source multiple custom scripts/functions](https://gist.github.com/kierandriscoll/cc20f0d95e69e1406b41bc8d9cd9d830)
 
 ### Wrangling
 - [Template for grouping/summarising data with {data.table}](https://gist.github.com/kierandriscoll/51033ba6c044d9fc094d8383219c14be)
