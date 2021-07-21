@@ -2,6 +2,7 @@
 
 ## R
 - [Set working directory to path of current script](https://gist.github.com/kierandriscoll/8cb5ea70ff997fb23c128e946ced1b27)
+- [Storing values in the system environment](https://gist.github.com/kierandriscoll/4bbff0926fd04acd56034692121bc919)
 
 ### Packages
 - [Automatically install and load a list of packages](https://gist.github.com/kierandriscoll/58a43bec0d69de8af546498297b04bf4)
